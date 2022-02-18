@@ -1,7 +1,7 @@
 👋 Greetings, I'm Oppy!
 
 <!-- Social Media -->
-[![Linkedin](https://img.shields.io/badge/-aldiwildan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oppypramudya/)
+[![Linkedin](https://img.shields.io/badge/-oppypramudya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oppypramudya/)
 [![Gmail](https://img.shields.io/badge/-oppypramudya5@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:oppypramudya5@gmail.com)
 
 
