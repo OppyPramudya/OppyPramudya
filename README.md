@@ -1,6 +1,6 @@
 👋 Greetings, I'm Oppy!
-I'm a Software Engineer Enthusiast, I'm focuses on learning HTML, CSS, and JavaScript as well as helping with exams, particularly standardised tests. 
-Outside of learning, I run a freelance web and mobile development projects, but mostly I learn about frontend in depth.
+<p> I'm a Software Engineer Enthusiast, I'm focuses on learning HTML, CSS, and JavaScript as well as helping with exams, particularly standardised tests. 
+Outside of learning, I run a freelance web and mobile development projects, but mostly I learn about frontend in depth. </p>
 <!--
 **OppyPramudya/OppyPramudya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
